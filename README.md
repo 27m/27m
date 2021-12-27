@@ -1,4 +1,4 @@
-### learning java, python, c++, lua/rlua
+### learning java, python, c/c++, lua/rlua
 ### reach me at marshall#4949
 
 <!--
